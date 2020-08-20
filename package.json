@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/AndriiZil/node-hapi#readme",
   "dependencies": {
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "cookie": "^0.4.1",
     "hapi": "^18.1.0"
   }
